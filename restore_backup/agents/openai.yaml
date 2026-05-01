@@ -1,0 +1,4 @@
+interface:
+  display_name: "Restore Backup"
+  short_description: "Preview and restore original files from backup filenames."
+  default_prompt: "Preview backup restoration for the current directory and ask before applying changes."
